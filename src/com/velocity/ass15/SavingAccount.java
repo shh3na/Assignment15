@@ -22,7 +22,7 @@ public class SavingAccount extends Account {
 		SavingAccount s = new SavingAccount();
 		s.getAccountDetails(5000);
 		System.out.println("Withdraw Amount Is : " +WithdrawAmount +" Rs");
-		
+		System.out.println("Withdrawl");
 		
 	}
 	
