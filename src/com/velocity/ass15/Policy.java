@@ -11,6 +11,7 @@ public class Policy {
 	String Name ;
 	String Type ;
 	int premium ;
+	int amount;
 	
 	public static Policy getPolicyDetails() {	
 	return new Policy();	
