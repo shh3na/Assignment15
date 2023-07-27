@@ -11,7 +11,7 @@ public class Policy {
 	String Name ;
 	String Type ;
 	int premium ;
-	String bankName;
+	int amount;
 	
 	public static Policy getPolicyDetails() {	
 	return new Policy();	
@@ -39,7 +39,7 @@ public class Policy {
 	  System.out.println( "premium : " +policy.premium +" Rs");
 
 
-	  System.out.println("Enter bank name :");
+	  
 	
 	}
 	
