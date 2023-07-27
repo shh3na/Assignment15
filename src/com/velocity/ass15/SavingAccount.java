@@ -20,14 +20,16 @@ public class SavingAccount extends Account {
 		
 		
 		SavingAccount s = new SavingAccount();
-		s.getAccountDetails(3000);
+		s.getAccountDetails(5000);
 		System.out.println("Withdraw Amount Is : " +WithdrawAmount +" Rs");
 
 
 
 		System.out.println("Withdrawl");
 		System.out.println("Withdraw Amount Is recieved" +WithdrawAmount);
+
 		System.out.println(" Withdraw done");
+
 
 		
 	}
