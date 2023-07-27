@@ -40,6 +40,8 @@ public class Policy {
 
 
 	  System.out.println("Enter bank name :");
+	  System.out.println("Enter bank work :");
+	  System.out.println("Enter bank adress :");
 	
 	}
 	
