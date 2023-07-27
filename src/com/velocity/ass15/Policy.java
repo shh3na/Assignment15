@@ -37,7 +37,12 @@ public class Policy {
 	  System.out.println("Enter Premium Amount :");
 	  policy.premium=sc.nextInt();
 	  System.out.println( "premium : " +policy.premium +" Rs");
+
 	  System.out.println("Thank you for selecting this policy");
+
+
+	  
+
 	
 	}
 	
